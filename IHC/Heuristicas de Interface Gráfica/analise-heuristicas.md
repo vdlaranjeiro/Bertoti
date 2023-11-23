@@ -2,10 +2,15 @@
 O objetivo deste trabalho é analisar erros e acertos cometidos no design de interfaces e usabilidade sob a perspectiva das 10 heurísticas propostas por Jakob Nielsen.
 
 ### 1 - Visibilidade do status do sistema
-O sistema deve fornecer recursos para deixar o usuário ciente da situação onde ele se encontra. Ex: progresso de tarefas, permitir que o usuário se localize.<br>
-**Erro:**
+O sistema deve fornecer recursos para deixar o usuário ciente da situação onde ele se encontra. Ex: progresso de tarefas, permitir que o usuário se localize.
+<br>
+<br>
+
+**Erro:** A ação de abrir o discord deixa a tela completamente cinza por uns segundos, sem deixar claro que a aplicação está carregando, gerando dúvidas sobre o seu estado.
 ![print discord](./imagens/1-erro-discord.png)
-A ação de abrir o discord deixa a tela completamente cinza por uns segundos, sem deixar claro que a aplicação está carregando, gerando dúvidas sobre o seu estado.<br>
+<br>
+<br>
+
 **Acerto:** 
 ![print steam](./imagens/1-acerto-steam.png)
 Na página da biblioteca da steam, o sistema informa o estado atual de um jogo no seu computador e o status do download.
